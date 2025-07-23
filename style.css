@@ -6,7 +6,6 @@ html,body{
     height: 100%;
     width: 100%;
     box-sizing: border-box;
-    background-size: cover;
     background-color: rgb(51, 60, 60);
     display: flex;
     justify-content: center;
